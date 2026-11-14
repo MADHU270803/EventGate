@@ -7,7 +7,7 @@ import EventForm from "./pages/EventForm.jsx";
 import Login from "./pages/Login.jsx";
 import MyTickets from "./pages/MyTickets.jsx";
 import OrganizerDashboard from "./pages/OrganizerDashboard.jsx";
-import { NotFound } from "./pages/Placeholders.jsx";
+import NotFound from "./pages/NotFound.jsx";
 import Register from "./pages/Register.jsx";
 import ScanPage from "./pages/ScanPage.jsx";
 import TicketPage from "./pages/TicketPage.jsx";
